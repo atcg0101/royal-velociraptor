@@ -1,4 +1,4 @@
-title = "Hugo Serif Theme"
+title = "SeafoodQuotes.co"
 baseURL = "www.example.com"
 languageCode = "en-us"
 themesDir = "../.."
@@ -8,31 +8,23 @@ theme = "hugo-serif-theme"
 google_analytics_id = ""
 google_tag_manager_id = ""
 
-  [params.logo]
-  standard = "images/logo.svg"
-  mobile = "images/logo-mobile.svg"
-  alt = "Serif - A Hugo Business Theme"
+[params.homepage_meta_tags]
+meta_description = "SeafoodQuotes.co is the fastest, most efficient way to obtain pricing quotes from multiple distributors."
+meta_og_description = "SeafoodQuotes.co is the fastest, most efficient way to obtain pricing quotes from multiple distributors."
+meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-serif-theme/master/images/tn.png"
+meta_og_title = "SeafoodQuotes.co"
+meta_og_type = "website"
+meta_og_url = "https://seafoodquotes.co"
+meta_twitter_card = "summary"
+meta_twitter_creator = "@seafoodquotesco"
+meta_twitter_site = "@seafoodquotesco"
 
-  [params.homepage_meta_tags]
-  meta_description = "Serif is a modern business theme for Hugo. It contains content types for the archetypical business website. The theme is fully responsive, blazing fast and artfully illustrated."
-  meta_og_title = "Hugo Serif Theme"
-  meta_og_type = "website"
-  meta_og_url = "https://hugo-serif.netlify.com"
-  meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-serif-theme/master/images/tn.png"
-  meta_og_description = "Serif is a modern business theme for Hugo. It contains content types for the archetypical business website. The theme is fully responsive, blazing fast and artfully illustrated."
-  meta_twitter_card = "summary"
-  meta_twitter_site = "@zerostaticio"
-  meta_twitter_creator = "@zerostaticio"
+[params.logo]
+alt = "Serif - A Hugo Business Theme"
+mobile = "images/logo-mobile.svg"
+standard = "images/logo.svg"
 
-[[menu.main]]
-name = "Services"
-url = "/services/"
-weight = 1
-
-[[menu.main]]
-name = "Team"
-url = "/team/"
-weight = 2
+[menu]
 
 [[menu.footer]]
 name = "Home"
@@ -42,4 +34,14 @@ weight = 1
 [[menu.footer]]
 name = "Contact"
 url = "/contact/"
+weight = 2
+
+[[menu.main]]
+name = "Services"
+url = "/services/"
+weight = 1
+
+[[menu.main]]
+name = "Team"
+url = "/team/"
 weight = 2
