@@ -1,10 +1,7 @@
 ---
 title: Team
-intro_image: images/undraw_modern_professional_yt9h.svg
-intro_image_absolute: false
-intro_image_hide_on_mobile: false
+date: 2019-08-08T20:02:44.453Z
 ---
-
 # Meet The Team
 
-Our team of qualified accountants and financial consultants can help your business at any stage of it's growth.
+Our team of brings over 50 years of sourcing and operational experience within the seafood distributors market to your business.
