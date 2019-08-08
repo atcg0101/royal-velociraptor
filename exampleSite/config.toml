@@ -22,7 +22,7 @@ meta_twitter_site = "@seafoodquotesco"
 [params.logo]
 alt = "Serif - A Hugo Business Theme"
 mobile = "images/logo-mobile.svg"
-standard = "images/logo.svg"
+standard = "/images/seafoodquotesco-logo.png"
 
 [menu]
 
