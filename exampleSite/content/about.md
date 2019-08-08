@@ -1,50 +1,22 @@
 ---
 title: About
+date: 2019-08-08T19:49:48.993Z
 menu: main
 ---
+It can take hours to inquire, aggregate, and finally purchase seafood orders. We have one goal: to make it simple, and enjoyable, to find the best ingredients for your business. Instead of becoming a distributor ourselves we decided to become the solution to a better distribution experience.
 
-Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+## More distributors than you thought exist
 
-## Ne verba patulosque numen vix libet
+There are over 5000 seafood distributors that service the USA, how many of them do you know? 
 
-Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
-Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
-male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
+Our team has over 50 years of combined experienced sourcing and building operations in this industry, and we have the network to match. Let us leverage our network to make your life easier.
 
-1. Cum det dixit Parcarum qui spemque est
-2. Exit ex huic
-3. Quod consiste agitataque claustraque vicina videt lacertis
-4. Loquor videt
-5. Ardua non igne caelesti coniugis cognovi diversorum
-6. Per nunc pariterque saeva vindicet
+By inquiring with termrelay we can:
 
-Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco _vati_
-dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
-Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
-esse iam feres mortis Plurima.
+* Take a single inquiry and send it out to many suppliers that are fit for your purchase
+* Save you considerable amounts of time, money, and energy by simplifying the process and maximizing the amount of quotes you have
+* Introduce you to new vendors you may have not spoken to before
 
-## Postquam tamen
+Best of all, we're free for buyers! We derive our earning from building successful customer pipelines for vendors, and also by helping them optimize their sales and fulfillment process. So we'll never charge you, the buyer, for using our service!
 
-Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere
-et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et
-licet! Inserui quamvis Clymeni.
-
-- Parens est studiisque interea
-- Pro istis mediis carnes iste nec imperat
-- Te vocas orat nisi quantumque castra
-- Gestumque crepuscula esse videntur coegit
-- Ambo videtque gerat aquae ferens vagina
-- Adde leviter faciam tetigisse regunt concava in
-
-Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de
-incubat hostes montibus, de moderato efficiet vulnere. Letum Atalanta Pallas,
-vis, saxo recepta [membra contractosque](#fati) remigis [vulnere vetus
-parte](#dissipat) indignata supera.
-
-Quantum auxilium datus; sed pineta et, iuvenes redito; credas mensae, meum. Mane
-iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem
-et eripiat, gnato. Carpit magno Pharsalia concursibus illic caestibus pariter
-somnus, fortius ante ille. Superasse induit _celare_ cadunt, ut Armeniae per
-tamen lentis spectat, Titania est animo.
+What are you waiting for? Get started with your inquiry by visiting [inquire.seafoodquotes.co](inquire.seafoodquotes.co), and feel free to send us an email at [hello@seafoodquotes.co](<mailto: hello@seafoodquotes.co>)
