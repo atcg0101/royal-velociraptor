@@ -11,7 +11,7 @@ There are over 5000 seafood distributors that service the USA, how many of them 
 
 Our team has over 50 years of combined experienced sourcing and building operations in this industry, and we have the network to match. Let us leverage our network to make your life easier.
 
-By inquiring with termrelay we can:
+By inquiring with SeafoodQuotes.co we can:
 
 * Take a single inquiry and send it out to many suppliers that are fit for your purchase
 * Save you considerable amounts of time, money, and energy by simplifying the process and maximizing the amount of quotes you have
