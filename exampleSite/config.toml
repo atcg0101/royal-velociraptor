@@ -20,9 +20,9 @@ meta_twitter_creator = "@seafoodquotesco"
 meta_twitter_site = "@seafoodquotesco"
 
 [params.logo]
-alt = "Serif - A Hugo Business Theme"
-mobile = "images/logo-mobile.svg"
-standard = "/images/seafoodquotesco-logo.png"
+alt = "SeafoodQuotes.co"
+mobile = "/images/seafoodquotesco-logo-2-.png"
+standard = "/images/seafoodquotesco-logo-2-.png"
 
 [menu]
 
