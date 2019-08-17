@@ -5,7 +5,7 @@ themesDir = "../.."
 theme = "hugo-serif-theme"
 
 [params]
-google_analytics_id = ""
+google_analytics_id = "UA-145812479-1"
 google_tag_manager_id = ""
 
 [params.homepage_meta_tags]
